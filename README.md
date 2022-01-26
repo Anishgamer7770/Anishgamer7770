@@ -9,9 +9,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
-## [MILANIO DEVELOPMENT](https://dsc.com/milanio)
-<img align="left" alt="discord" width="50px" src="https://media.discordapp.net/attachments/907875631000334346/935951070864240670/discord-icon-43736.png" />
-
+## [DISCORD ](https://dsc.com/milanio)
 
 
 
