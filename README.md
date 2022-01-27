@@ -41,23 +41,19 @@
 ## SOUND WAVE <img align="right" alt="Sound wave" width="50px" src="https://media.discordapp.net/attachments/933745764142829588/934059593263370291/Logo43422.png" />
 ## DC'S BACKUP <img align="right" alt="Dc backup" width="50px" src="https://media.discordapp.net/attachments/933745764142829588/934059593733144646/DC_BackupLogo323242.png" />
 ## INVITE TRACKER <img align="right" alt="Invite traker " width="50px" src="https://media.discordapp.net/attachments/933745764142829588/934059593510838342/Logo2321121.png" />
-
+<details>
  <summary>Click to expand</summary> 
-***
-> ##  Altron  <img align="right" border-radius="5%" alt="Altron" width="60px" src="https://cdn.discordapp.com/avatars/822369698133704714/46a2ef67130a6e24e93ebab51904418f.png" />
-***
-***
-> ##  Zedro    <img align="right" border-radius="5%" alt="Zedro" width="60px" src="https://cdn.discordapp.com/avatars/850303341435027466/a_9f5e2747bb8c53ca9c1d5084d1b45a31.png" />
-***
-***
-> ##  Insanerø <img align="right" border-radius="5%" alt="Insanerø" width="60px" src="https://cdn.discordapp.com/avatars/657222574471905281/17b8651bba9e7bdf442eb1d83436e161.png" />
-***
-***
-> ##   Madwin  <img align="right" border-radius="5%" alt="Madwin" width="60px" src="https://cdn.discordapp.com/avatars/839631567022325771/d2ca59f06bccac56fd2b5ebc43ae3bea.png" />
-***
-***
-> ##   Rj      <img align="right" border-radius="5%" alt="Rj" width="60px" src="https://cdn.discordapp.com/avatars/592742911263899649/52e6338e1e3dd7c281cc1363e943677b.png" />
-***
+
+ ##  Altron  <img align="right" border-radius="5%" alt="Altron" width="60px" src="https://cdn.discordapp.com/avatars/822369698133704714/46a2ef67130a6e24e93ebab51904418f.png" />
+
+ ##  Zedro    <img align="right" border-radius="5%" alt="Zedro" width="60px" src="https://cdn.discordapp.com/avatars/850303341435027466/a_9f5e2747bb8c53ca9c1d5084d1b45a31.png" />
+
+##  Insanerø <img align="right" border-radius="5%" alt="Insanerø" width="60px" src="https://cdn.discordapp.com/avatars/657222574471905281/17b8651bba9e7bdf442eb1d83436e161.png" />
+
+##   Madwin  <img align="right" border-radius="5%" alt="Madwin" width="60px" src="https://cdn.discordapp.com/avatars/839631567022325771/d2ca59f06bccac56fd2b5ebc43ae3bea.png" />
+
+##   Rj      <img align="right" border-radius="5%" alt="Rj" width="60px" src="https://cdn.discordapp.com/avatars/592742911263899649/52e6338e1e3dd7c281cc1363e943677b.png" />
+
 
 
 
