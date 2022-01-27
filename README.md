@@ -30,8 +30,9 @@
    
 # [Discord Server 😎](https://dsc/milanio) | [Website](https://mianiodev.ml)
 <a href="https://discord.gg/milrato"><img src="https://discord.com/api/guilds/825260113509351454/widget.png?style=banner2"></a>
-
-### OUR BOTS:
+***
+***
+# OUR BOTS:
 ## MILANIO <img align="right" alt="Jerry" width="50px" src="https://media.discordapp.net/attachments/907875631000334346/924935050175320064/MilanioLogo.png" />
 
 
@@ -41,8 +42,9 @@
 ## SOUND WAVE <img align="right" alt="Sound wave" width="50px" src="https://media.discordapp.net/attachments/933745764142829588/934059593263370291/Logo43422.png" />
 ## DC'S BACKUP <img align="right" alt="Dc backup" width="50px" src="https://media.discordapp.net/attachments/933745764142829588/934059593733144646/DC_BackupLogo323242.png" />
 ## INVITE TRACKER <img align="right" alt="Invite traker " width="50px" src="https://media.discordapp.net/attachments/933745764142829588/934059593510838342/Logo2321121.png" />
-<details>
- <summary>MY FRIENDS</summary> 
+*** 
+***
+# MY FRIENDS 
 
  > ##  Altron  <img align="right" border-radius="5%" alt="Altron" width="60px" src="https://cdn.discordapp.com/avatars/822369698133704714/46a2ef67130a6e24e93ebab51904418f.png" />
 ***
