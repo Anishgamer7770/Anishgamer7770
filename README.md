@@ -48,8 +48,8 @@
 
  > ##  Altron  <img align="right" border-radius="5%" alt="Altron" width="60px" src="https://cdn.discordapp.com/avatars/822369698133704714/46a2ef67130a6e24e93ebab51904418f.png" />
 ***
- >##  Zedro    <img align="right" border-radius="5%" alt="Zedro" width="60px" src="https://cdn.discordapp.com/avatars/850303341435027466/a_9f5e2747bb8c53ca9c1d5084d1b45a31.png" />
-***
+ > ##  Zedro    <img align="right" border-radius="5%" alt="Zedro" width="60px" src="https://cdn.discordapp.com/avatars/850303341435027466/a_9f5e2747bb8c53ca9c1d5084d1b45a31.png" />
+ ***
 > ##  Insanerø <img align="right" border-radius="5%" alt="Insanerø" width="60px" src="https://cdn.discordapp.com/avatars/657222574471905281/17b8651bba9e7bdf442eb1d83436e161.png" />
 ***
 > ##   Madwin  <img align="right" border-radius="5%" alt="Madwin" width="60px" src="https://cdn.discordapp.com/avatars/839631567022325771/d2ca59f06bccac56fd2b5ebc43ae3bea.png" />
