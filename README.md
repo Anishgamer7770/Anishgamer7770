@@ -1,4 +1,4 @@
-### Hi there, I'm Anishsharma - aka [Anishgamer777][website] 👋
+### Hi there, I'm Anishsharma - aka DECON#5711 || Anishgamer777 
 
 ## I'm a  Developer, and student !!
 
@@ -56,6 +56,12 @@
 ***
 > ##   Rj      <img align="right" border-radius="5%" alt="Rj" width="60px" src="https://cdn.discordapp.com/avatars/592742911263899649/52e6338e1e3dd7c281cc1363e943677b.png" />
 
+
+***
+# Credits
+> ### All Credit to Anishgamer777||Decon
+***
+&**
 ***
 
 
